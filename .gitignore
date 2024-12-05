@@ -1,0 +1,16 @@
+# folders to ignore
+.venv
+build
+dist
+venv
+
+# files to ignore
+csv_func.zip
+log_deleter.spec
+test.py
+test2.py
+test3.py
+test.spec
+test2.spec
+test3.spec
+test3.zip
